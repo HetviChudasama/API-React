@@ -1,12 +1,38 @@
-# React + Vite
+# 📘 API-React - Todo Cards with Axios and React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and beautiful React application that fetches todo data from a public API using **Axios** and displays it in an animated card layout. It demonstrates how to use **React Hooks** (`useEffect`, `useState`), handle API requests, and build a responsive UI with custom CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔁 Fetch data using Axios
+- ⚛️ Functional components with React Hooks
+- 🃏 Styled card-based layout
+- 🎨 Smooth hover & entrance animations
+- ✅ Visual indication for completed and pending todos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Preview of the app UI](./preview.png) <!-- Replace with your screenshot path if available -->
+
+---
+
+## 🔧 Technologies Used
+
+- ReactJS
+- Axios
+- CSS3 (Animations & Responsive Cards)
+- Vite (Build Tool)
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/HetviChudasama/API-React.git
+cd API-React
